@@ -1,6 +1,6 @@
 {
-  "total_generated": 75,
-  "last_reciter_idx": 5,
+  "total_generated": 76,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -754,6 +754,16 @@
       "duration": 40.6,
       "video_id": null,
       "date": "2026-10-23 12:01:07"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 6,
+      "end_ayah": 12,
+      "reciter": "ماهر المعيقلي",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-23 17:51:21"
     }
   ]
 }
