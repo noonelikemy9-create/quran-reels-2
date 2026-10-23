@@ -1,6 +1,6 @@
 {
-  "total_generated": 73,
-  "last_reciter_idx": 3,
+  "total_generated": 74,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -734,6 +734,16 @@
       "duration": 54.8,
       "video_id": null,
       "date": "2026-10-23 01:27:19"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "محمود خليل الحصري",
+      "duration": 55.6,
+      "video_id": null,
+      "date": "2026-10-23 06:14:06"
     }
   ]
 }
