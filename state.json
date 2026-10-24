@@ -1,6 +1,6 @@
 {
-  "total_generated": 77,
-  "last_reciter_idx": 7,
+  "total_generated": 78,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -774,6 +774,16 @@
       "duration": 26.3,
       "video_id": null,
       "date": "2026-10-24 01:16:01"
+    },
+    {
+      "surah": 97,
+      "surah_name": "القدر",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 31.4,
+      "video_id": null,
+      "date": "2026-10-24 06:06:59"
     }
   ]
 }
