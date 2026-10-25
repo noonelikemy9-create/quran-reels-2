@@ -1,6 +1,6 @@
 {
-  "total_generated": 81,
-  "last_reciter_idx": 11,
+  "total_generated": 82,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -814,6 +814,16 @@
       "duration": 40.9,
       "video_id": null,
       "date": "2026-10-25 01:06:22"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 7,
+      "end_ayah": 21,
+      "reciter": "أحمد العجمي",
+      "duration": 58.4,
+      "video_id": null,
+      "date": "2026-10-25 06:10:48"
     }
   ]
 }
