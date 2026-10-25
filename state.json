@@ -1,6 +1,6 @@
 {
-  "total_generated": 82,
-  "last_reciter_idx": 12,
+  "total_generated": 83,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -824,6 +824,16 @@
       "duration": 58.4,
       "video_id": null,
       "date": "2026-10-25 06:10:48"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 19,
+      "end_ayah": 28,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 51.1,
+      "video_id": null,
+      "date": "2026-10-25 11:57:57"
     }
   ]
 }
