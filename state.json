@@ -1,6 +1,6 @@
 {
-  "total_generated": 84,
-  "last_reciter_idx": 0,
+  "total_generated": 85,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -844,6 +844,16 @@
       "duration": 41.1,
       "video_id": null,
       "date": "2026-10-25 17:47:30"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 4,
+      "end_ayah": 10,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.2,
+      "video_id": null,
+      "date": "2026-10-26 01:23:42"
     }
   ]
 }
