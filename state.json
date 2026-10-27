@@ -1,6 +1,6 @@
 {
-  "total_generated": 91,
-  "last_reciter_idx": 7,
+  "total_generated": 92,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -914,6 +914,16 @@
       "duration": 59.2,
       "video_id": null,
       "date": "2026-10-27 12:05:31"
+    },
+    {
+      "surah": 12,
+      "surah_name": "يوسف",
+      "start_ayah": 56,
+      "end_ayah": 60,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-27 18:03:39"
     }
   ]
 }
