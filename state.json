@@ -1,6 +1,6 @@
 {
-  "total_generated": 93,
-  "last_reciter_idx": 9,
+  "total_generated": 94,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -934,6 +934,16 @@
       "duration": 51.9,
       "video_id": null,
       "date": "2026-10-28 01:31:54"
+    },
+    {
+      "surah": 6,
+      "surah_name": "الأنعام",
+      "start_ayah": 97,
+      "end_ayah": 99,
+      "reciter": "ياسر الدوسري",
+      "duration": 98.4,
+      "video_id": null,
+      "date": "2026-10-28 06:23:40"
     }
   ]
 }
