@@ -1,6 +1,6 @@
 {
-  "total_generated": 94,
-  "last_reciter_idx": 10,
+  "total_generated": 95,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -944,6 +944,16 @@
       "duration": 98.4,
       "video_id": null,
       "date": "2026-10-28 06:23:40"
+    },
+    {
+      "surah": 14,
+      "surah_name": "إبراهيم",
+      "start_ayah": 7,
+      "end_ayah": 9,
+      "reciter": "ناصر القطامي",
+      "duration": 76.5,
+      "video_id": null,
+      "date": "2026-10-28 12:15:17"
     }
   ]
 }
