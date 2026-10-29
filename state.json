@@ -1,6 +1,6 @@
 {
-  "total_generated": 96,
-  "last_reciter_idx": 12,
+  "total_generated": 97,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -964,6 +964,16 @@
       "duration": 58.4,
       "video_id": null,
       "date": "2026-10-28 18:04:21"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 5,
+      "end_ayah": 18,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 57.7,
+      "video_id": null,
+      "date": "2026-10-29 01:29:21"
     }
   ]
 }
