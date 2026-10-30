@@ -1,6 +1,6 @@
 {
-  "total_generated": 101,
-  "last_reciter_idx": 3,
+  "total_generated": 102,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1014,6 +1014,16 @@
       "duration": 54.1,
       "video_id": null,
       "date": "2026-10-30 01:31:47"
+    },
+    {
+      "surah": 35,
+      "surah_name": "فاطر",
+      "start_ayah": 22,
+      "end_ayah": 23,
+      "reciter": "محمود خليل الحصري",
+      "duration": 40.3,
+      "video_id": null,
+      "date": "2026-10-30 06:21:23"
     }
   ]
 }
