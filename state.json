@@ -1,6 +1,6 @@
 {
-  "total_generated": 103,
-  "last_reciter_idx": 5,
+  "total_generated": 104,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1034,6 +1034,16 @@
       "duration": 42.9,
       "video_id": null,
       "date": "2026-10-30 12:10:36"
+    },
+    {
+      "surah": 97,
+      "surah_name": "القدر",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "ماهر المعيقلي",
+      "duration": 27.4,
+      "video_id": null,
+      "date": "2026-10-30 17:58:08"
     }
   ]
 }
