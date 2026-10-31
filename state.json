@@ -1,6 +1,6 @@
 {
-  "total_generated": 105,
-  "last_reciter_idx": 7,
+  "total_generated": 106,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1054,6 +1054,16 @@
       "duration": 49.2,
       "video_id": null,
       "date": "2026-10-31 01:29:27"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 2,
+      "end_ayah": 9,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 40.8,
+      "video_id": null,
+      "date": "2026-10-31 06:19:07"
     }
   ]
 }
