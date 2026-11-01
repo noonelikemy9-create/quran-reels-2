@@ -1,6 +1,6 @@
 {
-  "total_generated": 109,
-  "last_reciter_idx": 11,
+  "total_generated": 110,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1094,6 +1094,16 @@
       "duration": 40.0,
       "video_id": null,
       "date": "2026-11-01 01:37:20"
+    },
+    {
+      "surah": 57,
+      "surah_name": "الحديد",
+      "start_ayah": 12,
+      "end_ayah": 12,
+      "reciter": "أحمد العجمي",
+      "duration": 62.9,
+      "video_id": null,
+      "date": "2026-11-01 06:27:19"
     }
   ]
 }
