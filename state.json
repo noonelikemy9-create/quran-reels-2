@@ -1,6 +1,6 @@
 {
-  "total_generated": 112,
-  "last_reciter_idx": 0,
+  "total_generated": 113,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1124,6 +1124,16 @@
       "duration": 46.3,
       "video_id": null,
       "date": "2026-11-01 17:52:49"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 4,
+      "end_ayah": 10,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.0,
+      "video_id": null,
+      "date": "2026-11-02 01:39:14"
     }
   ]
 }
