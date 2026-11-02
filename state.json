@@ -1,6 +1,6 @@
 {
-  "total_generated": 115,
-  "last_reciter_idx": 3,
+  "total_generated": 116,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1154,6 +1154,16 @@
       "duration": 47.9,
       "video_id": null,
       "date": "2026-11-02 12:22:17"
+    },
+    {
+      "surah": 67,
+      "surah_name": "الملك",
+      "start_ayah": 27,
+      "end_ayah": 28,
+      "reciter": "محمود خليل الحصري",
+      "duration": 48.4,
+      "video_id": null,
+      "date": "2026-11-02 18:11:29"
     }
   ]
 }
