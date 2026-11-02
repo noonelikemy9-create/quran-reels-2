@@ -1,6 +1,6 @@
 {
-  "total_generated": 113,
-  "last_reciter_idx": 1,
+  "total_generated": 114,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1134,6 +1134,16 @@
       "duration": 60.0,
       "video_id": null,
       "date": "2026-11-02 01:39:14"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 3,
+      "end_ayah": 9,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 38.8,
+      "video_id": null,
+      "date": "2026-11-02 06:39:02"
     }
   ]
 }
