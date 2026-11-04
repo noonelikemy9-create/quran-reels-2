@@ -1,6 +1,6 @@
 {
-  "total_generated": 122,
-  "last_reciter_idx": 10,
+  "total_generated": 123,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1224,6 +1224,16 @@
       "duration": 23.0,
       "video_id": null,
       "date": "2026-11-04 06:39:20"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "ناصر القطامي",
+      "duration": 58.3,
+      "video_id": null,
+      "date": "2026-11-04 12:15:00"
     }
   ]
 }
