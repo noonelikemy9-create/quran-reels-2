@@ -1,6 +1,6 @@
 {
-  "total_generated": 123,
-  "last_reciter_idx": 11,
+  "total_generated": 124,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1234,6 +1234,16 @@
       "duration": 58.3,
       "video_id": null,
       "date": "2026-11-04 12:15:00"
+    },
+    {
+      "surah": 36,
+      "surah_name": "يس",
+      "start_ayah": 57,
+      "end_ayah": 63,
+      "reciter": "أحمد العجمي",
+      "duration": 60.4,
+      "video_id": null,
+      "date": "2026-11-04 18:09:53"
     }
   ]
 }
