@@ -1,6 +1,6 @@
 {
-  "total_generated": 120,
-  "last_reciter_idx": 8,
+  "total_generated": 121,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1204,6 +1204,16 @@
       "duration": 58.4,
       "video_id": null,
       "date": "2026-11-03 18:11:29"
+    },
+    {
+      "surah": 41,
+      "surah_name": "فصلت",
+      "start_ayah": 17,
+      "end_ayah": 20,
+      "reciter": "سعد الغامدي",
+      "duration": 49.1,
+      "video_id": null,
+      "date": "2026-11-04 01:33:24"
     }
   ]
 }
