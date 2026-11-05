@@ -1,6 +1,6 @@
 {
-  "total_generated": 124,
-  "last_reciter_idx": 12,
+  "total_generated": 125,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1244,6 +1244,16 @@
       "duration": 60.4,
       "video_id": null,
       "date": "2026-11-04 18:09:53"
+    },
+    {
+      "surah": 106,
+      "surah_name": "قريش",
+      "start_ayah": 2,
+      "end_ayah": 4,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 22.0,
+      "video_id": null,
+      "date": "2026-11-05 01:37:37"
     }
   ]
 }
