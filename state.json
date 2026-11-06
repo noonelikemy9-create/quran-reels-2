@@ -1,6 +1,6 @@
 {
-  "total_generated": 128,
-  "last_reciter_idx": 2,
+  "total_generated": 129,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1284,6 +1284,16 @@
       "duration": 40.6,
       "video_id": null,
       "date": "2026-11-05 18:02:33"
+    },
+    {
+      "surah": 107,
+      "surah_name": "الماعون",
+      "start_ayah": 5,
+      "end_ayah": 7,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 45.6,
+      "video_id": null,
+      "date": "2026-11-06 01:43:49"
     }
   ]
 }
