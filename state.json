@@ -1,6 +1,6 @@
 {
-  "total_generated": 131,
-  "last_reciter_idx": 5,
+  "total_generated": 132,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1314,6 +1314,16 @@
       "duration": 45.9,
       "video_id": null,
       "date": "2026-11-06 12:22:29"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 7,
+      "end_ayah": 17,
+      "reciter": "ماهر المعيقلي",
+      "duration": 57.6,
+      "video_id": null,
+      "date": "2026-11-06 18:02:32"
     }
   ]
 }
