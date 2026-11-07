@@ -1,6 +1,6 @@
 {
-  "total_generated": 133,
-  "last_reciter_idx": 7,
+  "total_generated": 134,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1334,6 +1334,16 @@
       "duration": 38.7,
       "video_id": null,
       "date": "2026-11-07 01:30:12"
+    },
+    {
+      "surah": 74,
+      "surah_name": "المدثر",
+      "start_ayah": 34,
+      "end_ayah": 49,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 61.0,
+      "video_id": null,
+      "date": "2026-11-07 06:30:10"
     }
   ]
 }
