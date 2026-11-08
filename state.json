@@ -1,6 +1,6 @@
 {
-  "total_generated": 139,
-  "last_reciter_idx": 13,
+  "total_generated": 140,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1394,6 +1394,16 @@
       "duration": 56.7,
       "video_id": null,
       "date": "2026-11-08 12:07:20"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 7,
+      "end_ayah": 8,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 41.8,
+      "video_id": null,
+      "date": "2026-11-08 17:53:20"
     }
   ]
 }
