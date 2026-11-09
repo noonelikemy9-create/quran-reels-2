@@ -1,6 +1,6 @@
 {
-  "total_generated": 140,
-  "last_reciter_idx": 0,
+  "total_generated": 141,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1404,6 +1404,16 @@
       "duration": 41.8,
       "video_id": null,
       "date": "2026-11-08 17:53:20"
+    },
+    {
+      "surah": 2,
+      "surah_name": "البقرة",
+      "start_ayah": 151,
+      "end_ayah": 151,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 51.5,
+      "video_id": null,
+      "date": "2026-11-09 01:42:25"
     }
   ]
 }
