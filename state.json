@@ -1,6 +1,6 @@
 {
-  "total_generated": 142,
-  "last_reciter_idx": 2,
+  "total_generated": 143,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1424,6 +1424,16 @@
       "duration": 54.7,
       "video_id": null,
       "date": "2026-11-09 06:46:03"
+    },
+    {
+      "surah": 87,
+      "surah_name": "الأعلى",
+      "start_ayah": 7,
+      "end_ayah": 12,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 53.3,
+      "video_id": null,
+      "date": "2026-11-09 12:29:49"
     }
   ]
 }
