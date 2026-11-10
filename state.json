@@ -1,6 +1,6 @@
 {
-  "total_generated": 146,
-  "last_reciter_idx": 6,
+  "total_generated": 147,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1464,6 +1464,16 @@
       "duration": 56.5,
       "video_id": null,
       "date": "2026-11-10 06:36:57"
+    },
+    {
+      "surah": 84,
+      "surah_name": "الانشقاق",
+      "start_ayah": 7,
+      "end_ayah": 23,
+      "reciter": "سعود الشريم",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-11-10 12:19:10"
     }
   ]
 }
