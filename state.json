@@ -1,6 +1,6 @@
 {
-  "total_generated": 154,
-  "last_reciter_idx": 0,
+  "total_generated": 155,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1544,6 +1544,16 @@
       "duration": 57.9,
       "video_id": null,
       "date": "2026-11-12 06:42:30"
+    },
+    {
+      "surah": 4,
+      "surah_name": "النساء",
+      "start_ayah": 172,
+      "end_ayah": 172,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 47.4,
+      "video_id": null,
+      "date": "2026-11-12 12:23:19"
     }
   ]
 }
