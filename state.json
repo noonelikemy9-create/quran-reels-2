@@ -1,6 +1,6 @@
 {
-  "total_generated": 153,
-  "last_reciter_idx": 13,
+  "total_generated": 154,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1534,6 +1534,16 @@
       "duration": 60.8,
       "video_id": null,
       "date": "2026-11-12 01:45:36"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 1,
+      "end_ayah": 12,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 57.9,
+      "video_id": null,
+      "date": "2026-11-12 06:42:30"
     }
   ]
 }
