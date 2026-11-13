@@ -1,6 +1,6 @@
 {
-  "total_generated": 159,
-  "last_reciter_idx": 5,
+  "total_generated": 160,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1594,6 +1594,16 @@
       "duration": 58.2,
       "video_id": null,
       "date": "2026-11-13 12:24:16"
+    },
+    {
+      "surah": 94,
+      "surah_name": "الشرح",
+      "start_ayah": 5,
+      "end_ayah": 8,
+      "reciter": "ماهر المعيقلي",
+      "duration": 25.2,
+      "video_id": null,
+      "date": "2026-11-13 18:06:13"
     }
   ]
 }
