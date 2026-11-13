@@ -1,6 +1,6 @@
 {
-  "total_generated": 156,
-  "last_reciter_idx": 2,
+  "total_generated": 157,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1564,6 +1564,16 @@
       "duration": 49.8,
       "video_id": null,
       "date": "2026-11-12 18:10:17"
+    },
+    {
+      "surah": 55,
+      "surah_name": "الرحمن",
+      "start_ayah": 35,
+      "end_ayah": 38,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 60.6,
+      "video_id": null,
+      "date": "2026-11-13 01:37:52"
     }
   ]
 }
