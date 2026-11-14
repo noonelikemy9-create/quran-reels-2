@@ -1,6 +1,6 @@
 {
-  "total_generated": 160,
-  "last_reciter_idx": 6,
+  "total_generated": 161,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1604,6 +1604,16 @@
       "duration": 25.2,
       "video_id": null,
       "date": "2026-11-13 18:06:13"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "سعود الشريم",
+      "duration": 28.8,
+      "video_id": null,
+      "date": "2026-11-14 01:31:56"
     }
   ]
 }
