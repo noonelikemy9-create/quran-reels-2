@@ -1,6 +1,6 @@
 {
-  "total_generated": 163,
-  "last_reciter_idx": 9,
+  "total_generated": 164,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1634,6 +1634,16 @@
       "duration": 41.7,
       "video_id": null,
       "date": "2026-11-14 12:08:47"
+    },
+    {
+      "surah": 112,
+      "surah_name": "الإخلاص",
+      "start_ayah": 1,
+      "end_ayah": 4,
+      "reciter": "ياسر الدوسري",
+      "duration": 13.5,
+      "video_id": null,
+      "date": "2026-11-14 17:52:06"
     }
   ]
 }
