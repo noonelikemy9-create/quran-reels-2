@@ -1,6 +1,6 @@
 {
-  "total_generated": 167,
-  "last_reciter_idx": 13,
+  "total_generated": 168,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1674,6 +1674,16 @@
       "duration": 33.8,
       "video_id": null,
       "date": "2026-11-15 12:10:00"
+    },
+    {
+      "surah": 93,
+      "surah_name": "الضحى",
+      "start_ayah": 4,
+      "end_ayah": 11,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 42.0,
+      "video_id": null,
+      "date": "2026-11-15 17:55:32"
     }
   ]
 }
