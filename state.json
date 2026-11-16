@@ -1,6 +1,6 @@
 {
-  "total_generated": 168,
-  "last_reciter_idx": 0,
+  "total_generated": 169,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1684,6 +1684,16 @@
       "duration": 42.0,
       "video_id": null,
       "date": "2026-11-15 17:55:32"
+    },
+    {
+      "surah": 94,
+      "surah_name": "الشرح",
+      "start_ayah": 7,
+      "end_ayah": 8,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 39.1,
+      "video_id": null,
+      "date": "2026-11-16 01:53:20"
     }
   ]
 }
