@@ -1,6 +1,6 @@
 {
-  "total_generated": 175,
-  "last_reciter_idx": 7,
+  "total_generated": 176,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1754,6 +1754,16 @@
       "duration": 25.8,
       "video_id": null,
       "date": "2026-11-17 12:20:05"
+    },
+    {
+      "surah": 108,
+      "surah_name": "الكوثر",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 16.5,
+      "video_id": null,
+      "date": "2026-11-17 18:14:52"
     }
   ]
 }
