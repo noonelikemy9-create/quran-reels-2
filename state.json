@@ -1,6 +1,6 @@
 {
-  "total_generated": 172,
-  "last_reciter_idx": 4,
+  "total_generated": 173,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1724,6 +1724,16 @@
       "duration": 52.5,
       "video_id": null,
       "date": "2026-11-16 18:18:56"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "مشاري العفاسي",
+      "duration": 43.6,
+      "video_id": null,
+      "date": "2026-11-17 01:43:40"
     }
   ]
 }
