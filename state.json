@@ -1,6 +1,6 @@
 {
-  "total_generated": 173,
-  "last_reciter_idx": 5,
+  "total_generated": 174,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1734,6 +1734,16 @@
       "duration": 43.6,
       "video_id": null,
       "date": "2026-11-17 01:43:40"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 5,
+      "end_ayah": 20,
+      "reciter": "ماهر المعيقلي",
+      "duration": 60.2,
+      "video_id": null,
+      "date": "2026-11-17 06:43:35"
     }
   ]
 }
