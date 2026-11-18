@@ -1,6 +1,6 @@
 {
-  "total_generated": 179,
-  "last_reciter_idx": 11,
+  "total_generated": 180,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1794,6 +1794,16 @@
       "duration": 28.5,
       "video_id": null,
       "date": "2026-11-18 12:23:10"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 16,
+      "end_ayah": 26,
+      "reciter": "أحمد العجمي",
+      "duration": 58.2,
+      "video_id": null,
+      "date": "2026-11-18 18:10:58"
     }
   ]
 }
