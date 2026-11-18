@@ -1,6 +1,6 @@
 {
-  "total_generated": 178,
-  "last_reciter_idx": 10,
+  "total_generated": 179,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1784,6 +1784,16 @@
       "duration": 56.2,
       "video_id": null,
       "date": "2026-11-18 06:41:44"
+    },
+    {
+      "surah": 111,
+      "surah_name": "المسد",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "ناصر القطامي",
+      "duration": 28.5,
+      "video_id": null,
+      "date": "2026-11-18 12:23:10"
     }
   ]
 }
