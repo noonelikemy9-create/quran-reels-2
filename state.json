@@ -1,6 +1,6 @@
 {
-  "total_generated": 183,
-  "last_reciter_idx": 1,
+  "total_generated": 184,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1834,6 +1834,16 @@
       "duration": 56.8,
       "video_id": null,
       "date": "2026-11-19 12:27:44"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 1,
+      "end_ayah": 12,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 60.7,
+      "video_id": null,
+      "date": "2026-11-19 18:12:45"
     }
   ]
 }
