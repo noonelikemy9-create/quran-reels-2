@@ -1,6 +1,6 @@
 {
-  "total_generated": 181,
-  "last_reciter_idx": 13,
+  "total_generated": 182,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1814,6 +1814,16 @@
       "duration": 16.7,
       "video_id": null,
       "date": "2026-11-19 01:44:25"
+    },
+    {
+      "surah": 59,
+      "surah_name": "الحشر",
+      "start_ayah": 23,
+      "end_ayah": 24,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 47.4,
+      "video_id": null,
+      "date": "2026-11-19 06:45:45"
     }
   ]
 }
