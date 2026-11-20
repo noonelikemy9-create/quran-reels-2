@@ -1,6 +1,6 @@
 {
-  "total_generated": 184,
-  "last_reciter_idx": 2,
+  "total_generated": 185,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1844,6 +1844,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-19 18:12:45"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 13,
+      "end_ayah": 21,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 57.4,
+      "video_id": null,
+      "date": "2026-11-20 01:41:37"
     }
   ]
 }
