@@ -1,6 +1,6 @@
 {
-  "total_generated": 185,
-  "last_reciter_idx": 3,
+  "total_generated": 186,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1854,6 +1854,16 @@
       "duration": 57.4,
       "video_id": null,
       "date": "2026-11-20 01:41:37"
+    },
+    {
+      "surah": 63,
+      "surah_name": "المنافقون",
+      "start_ayah": 8,
+      "end_ayah": 9,
+      "reciter": "محمود خليل الحصري",
+      "duration": 70.4,
+      "video_id": null,
+      "date": "2026-11-20 06:42:00"
     }
   ]
 }
