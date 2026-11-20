@@ -1,6 +1,6 @@
 {
-  "total_generated": 186,
-  "last_reciter_idx": 4,
+  "total_generated": 187,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1864,6 +1864,16 @@
       "duration": 70.4,
       "video_id": null,
       "date": "2026-11-20 06:42:00"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 5,
+      "end_ayah": 15,
+      "reciter": "مشاري العفاسي",
+      "duration": 61.4,
+      "video_id": null,
+      "date": "2026-11-20 12:27:50"
     }
   ]
 }
