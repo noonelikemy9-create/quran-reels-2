@@ -1,6 +1,6 @@
 {
-  "total_generated": 191,
-  "last_reciter_idx": 9,
+  "total_generated": 192,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1914,6 +1914,16 @@
       "duration": 57.6,
       "video_id": null,
       "date": "2026-11-21 12:14:31"
+    },
+    {
+      "surah": 83,
+      "surah_name": "المطففين",
+      "start_ayah": 16,
+      "end_ayah": 26,
+      "reciter": "ياسر الدوسري",
+      "duration": 58.1,
+      "video_id": null,
+      "date": "2026-11-21 18:02:46"
     }
   ]
 }
