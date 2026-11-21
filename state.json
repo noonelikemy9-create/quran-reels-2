@@ -1,6 +1,6 @@
 {
-  "total_generated": 189,
-  "last_reciter_idx": 7,
+  "total_generated": 190,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1894,6 +1894,16 @@
       "duration": 40.9,
       "video_id": null,
       "date": "2026-11-21 01:44:44"
+    },
+    {
+      "surah": 48,
+      "surah_name": "الفتح",
+      "start_ayah": 20,
+      "end_ayah": 23,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 56.6,
+      "video_id": null,
+      "date": "2026-11-21 06:40:33"
     }
   ]
 }
