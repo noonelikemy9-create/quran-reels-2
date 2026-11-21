@@ -1,6 +1,6 @@
 {
-  "total_generated": 188,
-  "last_reciter_idx": 6,
+  "total_generated": 189,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1884,6 +1884,16 @@
       "duration": 20.9,
       "video_id": null,
       "date": "2026-11-20 18:35:39"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 50,
+      "end_ayah": 55,
+      "reciter": "سعود الشريم",
+      "duration": 40.9,
+      "video_id": null,
+      "date": "2026-11-21 01:44:44"
     }
   ]
 }
