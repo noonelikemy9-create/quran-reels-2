@@ -1,6 +1,6 @@
 {
-  "total_generated": 192,
-  "last_reciter_idx": 10,
+  "total_generated": 193,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1924,6 +1924,16 @@
       "duration": 58.1,
       "video_id": null,
       "date": "2026-11-21 18:02:46"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 18,
+      "end_ayah": 22,
+      "reciter": "ناصر القطامي",
+      "duration": 39.8,
+      "video_id": null,
+      "date": "2026-11-22 01:41:08"
     }
   ]
 }
