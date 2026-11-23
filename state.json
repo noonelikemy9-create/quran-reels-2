@@ -1,6 +1,6 @@
 {
-  "total_generated": 197,
-  "last_reciter_idx": 1,
+  "total_generated": 198,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1974,6 +1974,16 @@
       "duration": 80.4,
       "video_id": null,
       "date": "2026-11-23 08:00:53"
+    },
+    {
+      "surah": 12,
+      "surah_name": "يوسف",
+      "start_ayah": 76,
+      "end_ayah": 76,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 51.1,
+      "video_id": null,
+      "date": "2026-11-23 16:36:32"
     }
   ]
 }
