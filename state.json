@@ -1,6 +1,6 @@
 {
-  "total_generated": 201,
-  "last_reciter_idx": 5,
+  "total_generated": 202,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2014,6 +2014,16 @@
       "duration": 61.3,
       "video_id": null,
       "date": "2026-11-24 10:12:48"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 11,
+      "end_ayah": 20,
+      "reciter": "ماهر المعيقلي",
+      "duration": 42.3,
+      "video_id": null,
+      "date": "2026-11-24 16:24:47"
     }
   ]
 }
