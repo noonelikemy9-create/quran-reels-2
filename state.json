@@ -1,6 +1,6 @@
 {
-  "total_generated": 205,
-  "last_reciter_idx": 9,
+  "total_generated": 206,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2054,6 +2054,16 @@
       "duration": 42.0,
       "video_id": null,
       "date": "2026-11-25 08:56:47"
+    },
+    {
+      "surah": 9,
+      "surah_name": "التوبة",
+      "start_ayah": 53,
+      "end_ayah": 54,
+      "reciter": "ياسر الدوسري",
+      "duration": 45.2,
+      "video_id": null,
+      "date": "2026-11-25 16:07:24"
     }
   ]
 }
