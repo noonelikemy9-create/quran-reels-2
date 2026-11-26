@@ -1,6 +1,6 @@
 {
-  "total_generated": 208,
-  "last_reciter_idx": 12,
+  "total_generated": 209,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2084,6 +2084,16 @@
       "duration": 61.1,
       "video_id": null,
       "date": "2026-11-26 01:05:09"
+    },
+    {
+      "surah": 46,
+      "surah_name": "الأحقاف",
+      "start_ayah": 20,
+      "end_ayah": 21,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 73.3,
+      "video_id": null,
+      "date": "2026-11-26 08:48:45"
     }
   ]
 }
