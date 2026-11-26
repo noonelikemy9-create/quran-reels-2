@@ -1,6 +1,6 @@
 {
-  "total_generated": 207,
-  "last_reciter_idx": 11,
+  "total_generated": 208,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2074,6 +2074,16 @@
       "duration": 60.1,
       "video_id": null,
       "date": "2026-11-25 20:38:41"
+    },
+    {
+      "surah": 98,
+      "surah_name": "البينة",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "أحمد العجمي",
+      "duration": 61.1,
+      "video_id": null,
+      "date": "2026-11-26 01:05:09"
     }
   ]
 }
