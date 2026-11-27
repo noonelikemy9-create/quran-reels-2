@@ -1,6 +1,6 @@
 {
-  "total_generated": 213,
-  "last_reciter_idx": 3,
+  "total_generated": 214,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2134,6 +2134,16 @@
       "duration": 56.6,
       "video_id": null,
       "date": "2026-11-27 08:54:24"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 10,
+      "end_ayah": 18,
+      "reciter": "محمود خليل الحصري",
+      "duration": 56.0,
+      "video_id": null,
+      "date": "2026-11-27 15:37:13"
     }
   ]
 }
