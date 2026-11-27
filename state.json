@@ -1,6 +1,6 @@
 {
-  "total_generated": 214,
-  "last_reciter_idx": 4,
+  "total_generated": 215,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2144,6 +2144,16 @@
       "duration": 56.0,
       "video_id": null,
       "date": "2026-11-27 15:37:13"
+    },
+    {
+      "surah": 9,
+      "surah_name": "التوبة",
+      "start_ayah": 100,
+      "end_ayah": 100,
+      "reciter": "مشاري العفاسي",
+      "duration": 50.3,
+      "video_id": null,
+      "date": "2026-11-27 20:12:18"
     }
   ]
 }
