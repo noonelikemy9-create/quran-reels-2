@@ -1,6 +1,6 @@
 {
-  "total_generated": 216,
-  "last_reciter_idx": 6,
+  "total_generated": 217,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2164,6 +2164,16 @@
       "duration": 40.1,
       "video_id": null,
       "date": "2026-11-28 00:38:00"
+    },
+    {
+      "surah": 19,
+      "surah_name": "مريم",
+      "start_ayah": 82,
+      "end_ayah": 92,
+      "reciter": "سعود الشريم",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-11-28 08:12:59"
     }
   ]
 }
