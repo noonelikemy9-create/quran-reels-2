@@ -1,6 +1,6 @@
 {
-  "total_generated": 215,
-  "last_reciter_idx": 5,
+  "total_generated": 216,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2154,6 +2154,16 @@
       "duration": 50.3,
       "video_id": null,
       "date": "2026-11-27 20:12:18"
+    },
+    {
+      "surah": 93,
+      "surah_name": "الضحى",
+      "start_ayah": 5,
+      "end_ayah": 11,
+      "reciter": "ماهر المعيقلي",
+      "duration": 40.1,
+      "video_id": null,
+      "date": "2026-11-28 00:38:00"
     }
   ]
 }
